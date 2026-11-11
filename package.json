@@ -1,0 +1,23 @@
+{
+  "name": "@indragni/tally-counter-widget",
+  "version": "1.0.0",
+  "description": "A tally counter with increment, decrement and reset.",
+  "type": "module",
+  "exports": "./widget.js",
+  "files": [
+    "widget.js"
+  ],
+  "sideEffects": true,
+  "license": "MIT",
+  "homepage": "https://livetallycounter.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indragni/tally-counter-widget.git"
+  },
+  "keywords": [
+    "web-component",
+    "widget",
+    "tally-counter",
+    "counter"
+  ]
+}
